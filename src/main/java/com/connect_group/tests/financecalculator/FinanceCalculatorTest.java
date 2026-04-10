@@ -22,7 +22,7 @@ class FinanceCalculatorTest extends BaseTest {
     filterByPage = new FilterByPage(driver);
     personalisedQuotePage = new PersonalisedQuotePage(driver);
 
-    open("https://www.landrover.co.uk/offers-and-finance/finance-calculator.html");
+      open("https://www.landrover.co.uk/offers-and-finance/finance-calculator.html");
     
   }
 
